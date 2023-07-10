@@ -35,6 +35,6 @@ The following image shows the web application's appearance and functionality:
 
 <img width="1054" alt="image" src="https://github.com/MeerKar/PasswordGenerator/assets/116701851/6dd8b1b7-e6fc-4b8b-9543-a211e0550d44">
 
-
+Website URL : https://meerkar.github.io/PasswordGenerator/
 
 
